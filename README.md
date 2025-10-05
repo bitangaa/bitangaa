@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ayden Bitanga  
 
-🎓 **Senior in Mathematics** at **Boston College**  
+🎓 **Senior majoring in Mathematics** at **Boston College**  
 📊 **Aspiring Data Scientist** passionate about turning data into meaningful insights  
 🎯 Combining my background in mathematics with programming to tackle real-world challenges  
 
