@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python, Java, R, LaTeX  
+- **Languages:** Python, Java, SQL, R, LaTeX  
 - **Libraries & Frameworks:** scikit-learn, pandas, NumPy, matplotlib, seaborn  
 - **Specialties:** Predictive modeling, statistical analysis, data visualization  
 - **Other:** Git/GitHub, data cleaning, feature engineering  
@@ -29,11 +29,9 @@ Using historical **Valorant** pro match data from VLR.gg, this model analyzes te
 
 ---
 
-## 📫 Let’s Connect
+## Contact Info
 - [LinkedIn](https://www.linkedin.com/in/ayden-bitanga/) <!-- Replace with your LinkedIn profile link -->
 - [Email](mailto:bitangaa@bc.edu) <!-- Replace with your email -->
-
-💡 Always open to collaborating on projects involving **data science, sports analytics, and AI**.
 
 
 <!--
