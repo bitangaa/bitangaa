@@ -20,10 +20,6 @@ I am particularly interested in predictive modeling, data analytics, and machine
 - Sports and Esports Analytics
 - Data Visualization
 - Applied Mathematics and Decision-Making Systems
-
-
-**Technologies:** Python, pandas, scikit-learn, matplotlib
-
 ---
 
 ## Contact
