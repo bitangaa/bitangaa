@@ -21,23 +21,6 @@ I am particularly interested in predictive modeling, data analytics, and machine
 - Data Visualization
 - Applied Mathematics and Decision-Making Systems
 
----
-
-## Technical Skills
-
-**Programming Languages:** Python, SQL, R, Java
-
-**Libraries & Tools:** pandas, NumPy, scikit-learn, matplotlib, Tableau, Git/GitHub, Jupyter Notebook
-
-**Areas of Focus:** Machine Learning, Statistical Modeling, Data Visualization, Feature Engineering, Data Cleaning and Transformation
-
----
-
-## Featured Project
-
-### Valorant Championship Tour Match Prediction
-
-Developed a machine learning model using professional Valorant match data to predict match outcomes based on historical team and player performance metrics. The project involved data collection, preprocessing, feature engineering, model evaluation, and predictive analytics.
 
 **Technologies:** Python, pandas, scikit-learn, matplotlib
 
