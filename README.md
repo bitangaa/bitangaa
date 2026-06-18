@@ -1,50 +1,49 @@
-# 👋 Hi, I’m Ayden Bitanga  
+# Ayden Bitanga
 
-🎓 **Senior majoring in Mathematics** at **Boston College**  
-📊 **Aspiring Data Scientist** passionate about turning data into meaningful insights  
-🎯 Combining my background in mathematics with programming to tackle real-world challenges  
+**B.A. in Mathematics | Minor in Computer Science**  
+**Boston College**
 
----
-
-## 🔍 Current Focus
-- 📈 **Data Science & Machine Learning**  
-- 🤖 Building predictive models with **scikit-learn**  
-- 🎮 Analyzing **Valorant Championship Tour** match data to predict game outcomes before they happen  
-- 🧮 Applying statistical and mathematical rigor to sports & esports analytics  
+Recent mathematics graduate with a strong foundation in statistics, programming, and analytical problem-solving. Interested in applying data science, machine learning, and statistical modeling to transform complex data into actionable insights.
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** Python, Java, SQL, R, LaTeX  
-- **Libraries & Frameworks:** scikit-learn, pandas, NumPy, matplotlib, seaborn  
-- **Specialties:** Predictive modeling, statistical analysis, data visualization  
-- **Other:** Git/GitHub, data cleaning, feature engineering  
+## About
+
+I am particularly interested in predictive modeling, data analytics, and machine learning applications. My academic background in mathematics and computer science has provided me with experience in statistical analysis, data processing, and algorithmic thinking, which I enjoy applying to real-world problems.
 
 ---
 
-## 📂 Featured Project
-### 🎯 VCT Match Predictor  
-Using historical **Valorant** pro match data from VLR.gg, this model analyzes team and player performance statistics to generate **win probability predictions** before each match.  
-**Technologies:** Python, scikit-learn, pandas, matplotlib  
+## Current Interests
+
+- Data Science and Machine Learning
+- Predictive Modeling and Statistical Analysis
+- Sports and Esports Analytics
+- Data Visualization
+- Applied Mathematics and Decision-Making Systems
 
 ---
 
-## Contact Info
-- [LinkedIn](https://www.linkedin.com/in/ayden-bitanga/) <!-- Replace with your LinkedIn profile link -->
-- [Email](mailto:bitangaa@bc.edu) <!-- Replace with your email -->
+## Technical Skills
 
+**Programming Languages:** Python, SQL, R, Java
 
-<!--
-**bitangaa/bitangaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Libraries & Tools:** pandas, NumPy, scikit-learn, matplotlib, Tableau, Git/GitHub, Jupyter Notebook
 
-Here are some ideas to get you started:
+**Areas of Focus:** Machine Learning, Statistical Modeling, Data Visualization, Feature Engineering, Data Cleaning and Transformation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Project
+
+### Valorant Championship Tour Match Prediction
+
+Developed a machine learning model using professional Valorant match data to predict match outcomes based on historical team and player performance metrics. The project involved data collection, preprocessing, feature engineering, model evaluation, and predictive analytics.
+
+**Technologies:** Python, pandas, scikit-learn, matplotlib
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/ayden-bitanga/
+- Email: bitangaa@bc.edu
